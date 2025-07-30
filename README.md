@@ -16,43 +16,43 @@
 
 ### `git log`
 
-![image.png](attachment:fbcd22f1-12fe-4109-a0da-f06029a1a9cc:image.png)
+![git_log.png](pictures/git_log.png)
 
 ---
 
 ### `git diff`
 
-![image.png](attachment:edc51836-9e00-49aa-9a44-5abfac42ddc0:image.png)
+![git_diff.png](pictures/git_diff.png)
 
 ---
 
 ### `git stash`
 
-![image.png](attachment:8e6198dc-8665-47ad-9fe3-9a6280111ef5:image.png)
+![git_stash.png](pictures/git_stash.png)
 
 ---
 
 ### `git reset`
 
-![image.png](attachment:c5f70827-8852-4324-9819-cfb7e9b81e5a:image.png)
+![git_reset.png](pictures/git_reset.png)
 
 ---
 
 ### `git revert`
 
-![image.png](attachment:c8fcf76e-305f-4548-8a4f-be7eff4ba162:image.png)
+![git_revert.png](pictures/git_revert.png)
 
 ---
 
 ### `git stash pop`
 
-![image.png](attachment:5a7e84cf-e93a-42f2-bff6-6f20722b282e:image.png)
+![git_stash_pop.png](pictures/git_stash_pop.png)
 
 ---
 
 ### `git push`
 
-![image.png](attachment:bda75104-ebe2-4454-93c5-c016a6048798:image.png)
+![git_push.png](pictures/git_push.png)
 
 ---
 
